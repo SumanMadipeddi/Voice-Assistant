@@ -1,0 +1,4 @@
+*.pdf
+.gitattributes
+.venv/
+
